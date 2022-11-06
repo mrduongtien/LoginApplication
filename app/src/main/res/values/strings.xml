@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginFeature</string>
+    <string name="enter_here">Enter here</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signup">Don\'t Have Account? Signup</string>
+    <string name="title">Hi\nPlease Login</string>
+</resources>
